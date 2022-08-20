@@ -4,27 +4,27 @@
 
 Aquí se encuentran las prácticas llevadas a cabo durante el cursado de la materia "Procesamiento del lenguaje natural". 
 
-## Clase 1[asd](https://github.com/btourn/EIA-NLP-Practicas/tree/main/Clase1)
+## [Clase 1](https://github.com/btourn/EIA-NLP-Practicas/tree/main/Clase1)
 
 Vectorización de documentos.
 
-## Clase 2
+## [Clase 2] (https://github.com/btourn/EIA-NLP-Practicas/tree/main/Clase2)
 
 Bot basado en reglas
 
-## Clase 3
+## [Clase 3] (https://github.com/btourn/EIA-NLP-Practicas/tree/main/Clase3)
 
 Creación de word embeddings con GENSIM
 
-## Clase 4
+## [Clase 4] (https://github.com/btourn/EIA-NLP-Practicas/tree/main/Clase4)
 
 Redes neuronales recurrentes (RNN) para predicción de próxima palabra
 
-## Clase 5
+## [Clase 5] (https://github.com/btourn/EIA-NLP-Practicas/tree/main/Clase5)
 
 Redes LSTM. Sentiment analysis con embeddings + LSTM
 
-## Clase 6
+## [Clase 6] (https://github.com/btourn/EIA-NLP-Practicas/tree/main/Clase6)
 
 Modelos seq2seq. Bot de preguntas y respuestas con LSTM.
 
