@@ -1,6 +1,4 @@
-# Especialización en Inteligencia Artificial 
-
-## Repositorio de prácticas de la materia "Procesamiento del lenguaje natural"
+# Repositorio de prácticas de la materia "Procesamiento del lenguaje natural" de la carrera de Especialización en Inteligencia Artificial 
 
 Aquí se encuentran las prácticas llevadas a cabo durante el cursado de la materia "Procesamiento del lenguaje natural". 
 
@@ -33,8 +31,8 @@ Modelos seq2seq. Bot de preguntas y respuestas con LSTM.
 
 ### Docentes
 
-Msc. Rodrigo Cardenas Szigety
-Esp. Ing. Hernán Contigiani
+- Msc. Rodrigo Cardenas Szigety
+- Esp. Ing. Hernán Contigiani
 
 
 ### Autor
